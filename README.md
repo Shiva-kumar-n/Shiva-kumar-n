@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiva-kumar-n
+- 👋 Hi, I’m Shiva Kumar Nagalla
 - 👀 I’m interested in Full Stack Development | MERN | Python Development
 - 🌱 I’m currently learning React and Android Development
 - 💞️ I’m looking to collaborate on ...
